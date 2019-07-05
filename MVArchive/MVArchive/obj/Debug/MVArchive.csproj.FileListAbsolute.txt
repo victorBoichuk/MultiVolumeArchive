@@ -1,0 +1,9 @@
+C:\Users\VB\source\repos\MVArchive\MVArchive\bin\Debug\MVArchive.exe.config
+C:\Users\VB\source\repos\MVArchive\MVArchive\bin\Debug\MVArchive.exe
+C:\Users\VB\source\repos\MVArchive\MVArchive\bin\Debug\MVArchive.pdb
+C:\Users\VB\source\repos\MVArchive\MVArchive\obj\Debug\MVArchive.csprojAssemblyReference.cache
+C:\Users\VB\source\repos\MVArchive\MVArchive\obj\Debug\MVArchive.csproj.CoreCompileInputs.cache
+C:\Users\VB\source\repos\MVArchive\MVArchive\obj\Debug\MVArchive.exe
+C:\Users\VB\source\repos\MVArchive\MVArchive\obj\Debug\MVArchive.pdb
+C:\Users\VB\source\repos\MVArchive\MVArchive\bin\Debug\Ionic.Zip.dll
+C:\Users\VB\source\repos\MVArchive\MVArchive\obj\Debug\MVArchive.csproj.CopyComplete
